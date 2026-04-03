@@ -1,0 +1,195 @@
+cv:
+  name: Sakshi Joshi
+  label: PhD Research Scholar, IIT Madras | AI4Bharat
+  email: da23d201@smail.iitm.ac.in
+  location: Chennai, India
+  image: ""
+  summary: >
+    PhD Research Scholar in Data Science and Artificial Intelligence at IIT Madras, advised by Prof. Mitesh M. Khapra.
+    Working at AI4Bharat on Automatic Speech Recognition (ASR) for Indian languages.
+    Recipient of Best Theme Paper Award at Interspeech 2025.
+
+  social_networks:
+    - network: GitHub
+      username: sakshijoshi   # update with actual GitHub username
+    - network: LinkedIn
+      username: sakshi-joshi  # update with actual LinkedIn username
+
+  address:
+    city: Chennai
+    region: Tamil Nadu
+    countryCode: IN
+
+  sections:
+    Education:
+      - institution: Indian Institute of Technology (IIT), Madras
+        location: Chennai, India
+        url: https://www.iitm.ac.in/
+        area: Data Science and Artificial Intelligence
+        studyType: PhD
+        start_date: 2023-07-01
+        end_date: present
+        score: "8.20/10"
+        courses: "Deep Learning, Advance Topics in Signal Processing, NLP, Recent Advances in Generative AI"
+        highlights:
+          - "Advisor: Prof. Mitesh M. Khapra"
+
+      - institution: Medicaps University
+        location: Indore, India
+        area: Computer Science — Specialization in Artificial Intelligence
+        studyType: B.Tech
+        start_date: 2017-07-01
+        end_date: 2021-06-01
+        score: "8.20/10"
+        courses: "Operating Systems, Data Structures, Analysis of Algorithms, Soft Computing, Networking, Databases"
+
+    Experience:
+      - company: AI4Bharat, IIT Madras
+        position: Project Associate — Automatic Speech Recognition
+        location: Chennai, India
+        start_date: 2023-01-01
+        end_date: 2023-07-01
+        summary: "Worked under Prof. Mitesh M. Khapra on large-scale ASR benchmarks and datasets for Indian languages."
+        highlights:
+          - "Svarah: Contributed to building a 9.6-hour English ASR benchmark evaluating systems on Indian accents."
+          - "IndicVoices: Contributed to data collection and evaluation for a multilingual speech dataset spanning 22 Indian languages."
+          - "LAHAJA: Contributed to building a multi-accent benchmark for evaluating Hindi ASR systems."
+
+      - company: CEET, IIT Madras Research Park
+        position: Project Associate — Machine Learning
+        location: Chennai, India
+        start_date: 2022-07-01
+        end_date: 2022-12-01
+        summary: "Worked under Prof. Ashok Jhunjhunwala on image processing and speech projects."
+        highlights:
+          - "Collaborated with Uniphore on a voice bank app supporting 7 Indian languages."
+          - "Designed a BuildClub OpenCV course on image and video processing for high school students."
+
+      - company: IIT Indore
+        position: Data Science and Research Intern
+        location: Remote
+        start_date: 2021-02-01
+        end_date: 2021-05-01
+        summary: "Worked under Dr. Abhirup Datta on the NavIC/GPS solar weather project."
+        highlights:
+          - "Built a pipeline to process GPS and NavIC satellite data and visualize solar weather in real-time."
+          - "Demonstrated high positive correlation between satellite data and solar parameters."
+
+      - company: Codenscious.ai
+        position: Machine Learning and Deep Learning Intern
+        location: Indore, India
+        start_date: 2020-05-01
+        end_date: 2021-08-01
+        highlights:
+          - "Worked on financial data analysis and custom ML algorithm development."
+
+    Awards:
+      - title: Best Theme Paper Award
+        date: 2025-08-01
+        awarder: Interspeech 2025
+        summary: "Awarded for the paper 'Recognizing Every Voice: Towards Inclusive ASR for Rural Bhojpuri Women'."
+
+      - title: 2nd Prize — Poster Presentation, WSAI Annual Research Showcase 2025
+        date: 2025-01-01
+        awarder: Wadhwani School of AI, IIT Madras
+        summary: "Won second prize at the Wadhwani School of AI Annual Research Showcase; also awarded travel grant covering Interspeech 2025 registration fees."
+
+      - title: Google DeepMind Research Symposium
+        date: 2025-01-01
+        awarder: Google DeepMind
+        summary: "Selected to attend the Google DeepMind Research Symposium 2025."
+
+      - title: Travel Grant — IndoML 2023
+        date: 2023-01-01
+        awarder: IndoML
+        summary: "Awarded travel support to attend IndoML 2024."
+
+      - title: GATE 2023 — Computer Science
+        date: 2023-02-01
+        awarder: IIT
+        summary: "Qualified with 96.33 Percentile."
+
+      - title: GATE 2022 — Computer Science
+        date: 2022-02-01
+        awarder: IIT
+        summary: "Qualified with 94.33 Percentile."
+
+      - title: Medhavi Vidyarthi Protsahan Scholarship
+        date: 2017-07-01
+        awarder: Government of India
+        summary: "Awarded for excellent academic performance in 10+2 examination."
+
+      - title: Silver Medalist — SOF 16th National Science Olympiad
+        date: 2014-07-01
+        awarder: Science Olympiad Foundation
+        summary: "Secured School Rank 2."
+
+    Publications:
+      - title: "Recognizing Every Voice: Towards Inclusive ASR for Rural Bhojpuri Women"
+        authors:
+          - Sakshi Joshi
+          - Eldho Ittan George
+          - Tahir Javed
+          - Kaushal Bhogale
+          - Nikhil Narasimhan
+          - Mitesh M. Khapra
+        publisher: Interspeech 2025
+
+      - title: "Towards Bringing Parity in Pretraining Datasets for Low-resource Indian Languages"
+        authors:
+          - Kaushal Santosh Bhogale
+          - Sakshi Joshi
+          - Mitesh M. Khapra
+          - et al.
+        publisher: ICASSP 2025
+
+      - title: "LAHAJA: A Robust Multi-accent Benchmark for Evaluating Hindi ASR Systems"
+        authors:
+          - Tahir Javed
+          - Sakshi Joshi
+          - Mitesh M. Khapra
+          - et al.
+        publisher: Interspeech 2024
+
+      - title: "IndicVoices: Towards Building an Inclusive Multilingual Speech Dataset for Indian Languages"
+        authors:
+          - Tahir Javed
+          - Sakshi Joshi
+          - Mitesh M. Khapra
+          - et al.
+        publisher: ACL 2024
+
+      - title: "Svarah: Evaluating English ASR Systems on Indian Accents"
+        authors:
+          - Tahir Javed
+          - Sakshi Joshi
+          - Mitesh M. Khapra
+          - et al.
+        publisher: Interspeech 2023
+
+    Skills:
+      - name: Speech & NLP
+        level: Expert
+        icon: fa-solid fa-microphone
+        keywords: "Automatic Speech Recognition, Multilingual NLP, Low-resource Languages, Indian Languages"
+
+      - name: Machine Learning
+        level: Expert
+        icon: fa-solid fa-brain
+        keywords: "Deep Learning, PyTorch, Transformers, Data Collection, Model Evaluation"
+
+      - name: Programming
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, OpenCV, Data Processing, Pipeline Development"
+
+    Languages:
+      - name: Hindi
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "ASR, Multilingual Speech, Low-resource Indian Languages, Inclusive AI"
