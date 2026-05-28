@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended **Interspeech 2025** in Rotterdam, Netherlands — presented our paper on inclusive ASR for Bhojpuri women and received the Best Theme Paper Award! 🏆
+Attended **Interspeech 2025** in Rotterdam, Netherlands 🇳🇱 presented our work on inclusive ASR for Bhojpuri women. An extremely great experience 🙌!

@@ -1,6 +1,6 @@
 cv:
   name: Sakshi Joshi
-  label: PhD Research Scholar, IIT Madras | AI4Bharat
+  label: PhD Student, IIT Madras | AI4Bharat
   email: da23d201@smail.iitm.ac.in
   location: Chennai, India
   image: ""
@@ -11,9 +11,9 @@ cv:
 
   social_networks:
     - network: GitHub
-      username: sakshijoshi   # update with actual GitHub username
+      username: sakshi-joshi-30
     - network: LinkedIn
-      username: sakshi-joshi  # update with actual LinkedIn username
+      username: joshisakshi
 
   address:
     city: Chennai

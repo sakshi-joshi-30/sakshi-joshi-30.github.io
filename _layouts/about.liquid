@@ -16,7 +16,8 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}" style="position: relative;">
+        <div style="position: absolute; top: -14px; right: -10px; font-size: 1.8rem; z-index: 10;">📌</div>
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -63,6 +64,11 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    <!-- Thank you note -->
+    <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--global-divider-color); color: var(--global-text-color-light); font-size: 0.95rem;">
+      Thank you for visiting! I love to discuss my research work — feel free to connect at <a href="mailto:da23d201@smail.iitm.ac.in">da23d201@smail.iitm.ac.in</a>.
+    </div>
 
     <!-- Social -->
     {% if page.social %}

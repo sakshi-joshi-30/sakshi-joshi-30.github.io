@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my **Masters at IIT Madras** under Prof. Mitesh M. Khapra at AI4Bharat.
+Started my Masters at **IIT Madras** under Prof. Mitesh M. Khapra at AI4Bharat.

@@ -48,12 +48,16 @@
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: #fce4ec;
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: #c2185b !important;
+          font-size: 0.72rem;
+          font-weight: 600;
+          letter-spacing: 0.03em;
+          border-radius: 4px;
 
           a {
-            color: white;
+            color: #c2185b;
 
             &:hover {
               text-decoration: none;

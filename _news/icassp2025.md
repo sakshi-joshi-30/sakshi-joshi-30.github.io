@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended **ICASSP 2025** in Hyderabad, India.
+Attended **ICASSP 2025** in Hyderabad, India 🇮🇳 presented our paper **Mahadhwani**: Towards Bringing Parity in Pretraining Datasets for Low-resource Indian Languages.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended **Indo-ML Goa 2024** — great talks and discussions on ML research in India!
+Attended **Indo-ML Goa 2024** in Goa, India 🇮🇳 great talks and discussions on ML research!

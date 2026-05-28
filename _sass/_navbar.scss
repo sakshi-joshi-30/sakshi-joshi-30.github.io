@@ -80,13 +80,20 @@
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 1.4rem;
 
     a {
+      color: var(--global-theme-color);
+      margin-right: 8px;
+
+      &:hover {
+        color: var(--global-hover-color);
+      }
+
       img {
-        width: 1.7rem;
-        height: 1.7rem;
-        margin-bottom: 0.5rem;
+        width: 1.4rem;
+        height: 1.4rem;
+        margin-bottom: 0.2rem;
         // margin: 0.5rem;
       }
 

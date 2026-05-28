@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster presentation at **Wadhwani School of Data Science and AI, IIT Madras** — May 2025.
+Poster presentation at **Wadhwani School of Data Science and AI, IIT Madras** May 2025.
