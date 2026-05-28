@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Represented <a href="https://bodhan.ai" target="_blank">Bodhan.ai</a> and AI4Bharat at the **India AI Summit 2026** 🇮🇳 come visit our booth!
+Represented <a href="https://bodhan.ai" target="_blank">Bodhan.ai</a> and AI4Bharat at the **India AI Impact Summit 2026** 🇮🇳 come visit our booth!
