@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sakshijoshi.github.io/sitemap.xml
+Sitemap: https://sakshi-joshi-30.github.io/sitemap.xml
