@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_20260822_000420_053.webp
   image_circular: false
   more_info: >
     <p>619, New Academic Complex-2</p>
